@@ -1,6 +1,6 @@
 export default function Page() {
     return (
-        <section className="pt-12">
+        <section className="pt-12 h-full">
             <div className="max-w-4xl mx-auto bg-white p-8 rounded-lg shadow-md text-black">
                 <h1 className="text-2xl font-bold mb-6">Privacy Policy</h1>
 
