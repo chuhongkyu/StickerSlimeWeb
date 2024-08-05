@@ -1,6 +1,11 @@
+import Navigation from "@/components/Navigation";
+
 export default function Page() {
     return (
+        <>
+        
         <section className="pt-12 h-full">
+            <Navigation/>
             <div className="max-w-4xl mx-auto bg-white p-8 rounded-lg shadow-md text-black">
                 <h1 className="text-2xl font-bold mb-6">Privacy Policy</h1>
 
@@ -35,5 +40,6 @@ export default function Page() {
                 <p className="mb-4">The Game offers in-app purchases to enhance the user experience. When you make in-app purchases, additional information such as payment information may be collected to process these transactions. This information is handled securely and is not shared with third parties except as necessary to process the transaction.</p>
             </div>
         </section>
+        </>
     );
 }
