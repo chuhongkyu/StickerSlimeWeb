@@ -12,7 +12,6 @@ export const metadata: Metadata = {
     name: "Mr.chu",
     url: "https://litt.ly/mr_chu"
   }],
-  themeColor: "#4CAF50",
   applicationName: "Sticker Slime",
   manifest: "/manifest.json",
 };
