@@ -2,8 +2,8 @@
 
 export default function Page() {
     return (
-        <section className="pt-12">
-            <div className="container mx-auto">
+        <section className="pt-12 h-full">
+            <div className="max-w-4xl mx-auto bg-white p-8 rounded-lg shadow-md text-black">
                 <h1 className="text-3xl font-bold mb-4">Account Data Deletion Request</h1>
                 <p className="text-lg mb-4">App or Developer Name: [Your App or Developer Name]</p>
                 
