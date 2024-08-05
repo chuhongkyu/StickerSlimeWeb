@@ -1,7 +1,9 @@
+// /src/app/userDelete/page.tsx
+
 export default function Page() {
     return (
-        <section className="pt-12 h-full">
-            <div className="max-w-4xl mx-auto bg-white p-8 rounded-lg shadow-md text-black">
+        <section className="pt-12">
+            <div className="container mx-auto">
                 <h1 className="text-3xl font-bold mb-4">Account Data Deletion Request</h1>
                 <p className="text-lg mb-4">App or Developer Name: [Your App or Developer Name]</p>
                 
@@ -10,7 +12,7 @@ export default function Page() {
                 <ol className="list-decimal list-inside mb-4">
                     <li>Open the Google Play Games app on your device.</li>
                     <li>Go to the settings menu.</li>
-                    <li>Under "Your data", select "Delete Play Games account & data".</li>
+                    <li>Under &quot;Your data&quot;, select &quot;Delete Play Games account & data&quot;.</li>
                     <li>Follow the on-screen instructions to delete your Play Games data.</li>
                 </ol>
                 
