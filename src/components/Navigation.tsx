@@ -22,10 +22,10 @@ interface NavLinkProps {
 
 function NavLink({ href, text, active }: NavLinkProps) {
     return (
-        <a href={href} className="relative text-lg font-semibold">
+        <a href={href} className="relative text-lg font-semibold p-4">
             {text}
             {active && (
-                <span className="absolute left-0 right-0 bottom-0 h-0.5 bg-blue-500" />
+                <span className="absolute left-0 right-0 bottom-0 h-0.5 bg-black" />
             )}
         </a>
     );
