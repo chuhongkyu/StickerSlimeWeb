@@ -41,6 +41,11 @@
 }
 
 .banner {
+  .container-column {
+    max-width: 64rem;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
   .container {
     display: flex;
     align-items: center;
@@ -60,14 +65,20 @@
     max-width: 64rem;
     margin: 0 auto;
     padding: 0 1rem;
+    h3{
+      font-size: 2rem;
+    }
+    .wrapper{
+      margin: 1rem 0;
+      display: flex;
+    }
+    .text{
+      font-size: 18px;
+    }
     .top{
       display: flex;
       align-items: center;
       justify-content: space-between;
-      h3{
-        font-weight: 400;
-        font-size: 2rem;
-      }
       .btn-group{
         display: flex;
         align-items: center;
