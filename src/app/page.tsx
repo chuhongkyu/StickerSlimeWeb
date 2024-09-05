@@ -1,13 +1,14 @@
 import Banner from "@/components/banner";
 import Footer from "@/components/footer";
+import Header from "@/components/header";
 import Section1 from "@/components/section1";
-import Section2 from "@/components/section2";
 import Stack from "@/components/stack";
-import Image from "next/image";
+
 
 export default function Home() {
   return (
     <main>
+      <Header/>
       <Banner/>
       <Stack/>
       <Section1/>

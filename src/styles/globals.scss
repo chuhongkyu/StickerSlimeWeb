@@ -1,3 +1,5 @@
+@import "./variable.scss";
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -30,7 +32,13 @@ html,
 body,
 #__next{
 	width: 100%;
-	/* font-family: var(--font-notoSansKr) */
+	background-color: $bg-color;
+	font-family: var(--font-roboto)
+}
+
+main{
+	width: 100%;
+	padding-top: calc($header-height + 20px);
 }
 
 #__next{

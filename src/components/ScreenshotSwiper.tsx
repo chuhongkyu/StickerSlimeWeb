@@ -20,7 +20,7 @@ export default function ScreenshotSwiper() {
             >
                 {imgWeight.map((el)=>{
                     return (
-                        <SwiperSlide id={el}>
+                        <SwiperSlide id={el} key={el + "KEY"}>
                             <div className="screenshoot-card">
                                 <img src={`/assets/images/screenshot/${el}.jpg`} alt={el}/>
                             </div>

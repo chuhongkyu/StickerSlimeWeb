@@ -1,5 +1,6 @@
 @import "./globals.scss";
 @import "./privacy.scss";
+@import "./variable.scss";
 
 
 .stack{
@@ -11,6 +12,7 @@
     margin-top: 2rem;
     overflow: hidden;
     .screenshoot-card{
+        cursor: grab;
         overflow: hidden;
         border-radius: 12px;
         img{
