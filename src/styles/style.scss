@@ -1,0 +1,28 @@
+@import "./globals.scss";
+@import "./privacy.scss";
+
+
+.stack{
+    height: 4rem;
+}
+
+.screenshot-swiper-container{
+    width: 100%;
+    margin-top: 2rem;
+    overflow: hidden;
+    .screenshoot-card{
+        overflow: hidden;
+        border-radius: 12px;
+        img{
+            max-width: 500px;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .stack{
+        height: 2rem;
+    }
+}
