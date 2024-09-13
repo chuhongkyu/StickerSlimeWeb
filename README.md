@@ -6,6 +6,10 @@
     <img src="public/assets/images/button/button_download_android.png" alt="Google Play에서 무료 다운로드" width="200"/>
 </a>
 
+<a href="https://apps.apple.com/kr/app/sticker-slime/id6670695864" target="_blank" rel="noopener noreferrer">
+    <img src="public/assets/images/button/button_download_ios.png" alt="Apple Store 에서 무료 다운로드" width="200"/>
+</a>
+
 ## 게임 소개
 
 Sticker Slime은 마법이 숨어 있는 서랍 속의 특별한 세계에서 벌어지는 이야기를 바탕으로 제작되었습니다. 용암이 흐르는 지역, 울창한 숲, 눈이 덮인 차가운 지역까지 다양한 테마를 가진 지역에서 슬라임들이 장애물을 피해 나아갑니다.

@@ -12,9 +12,9 @@ export default function Section1() {
                         <a href="https://play.google.com/store/apps/details?id=com.Mr.chu.StickerSlime" target="_blank" rel="noopener noreferrer">
                             <img width="200" src="/assets/images/button/button_download_android.png" alt="Google Play에서 무료 다운로드"/>
                         </a>
-                        {/* <a href="">
+                        <a href="https://apps.apple.com/kr/app/sticker-slime/id6670695864" target="_blank" rel="noopener noreferrer">
                             <img width="200" src="/assets/images/button/button_download_ios.png" alt="앱 스토어에서 무료 다운로드"/>
-                        </a> */}
+                        </a>
                     </div>
                 </div>
                 <ScreenshotSwiper/>
