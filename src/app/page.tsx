@@ -1,8 +1,7 @@
 import Banner from "@/components/index/banner";
-import Footer from "@/components/footer";
-import Header from "@/components/header";
 import Section1 from "@/components/index/section1";
 import Stack from "@/components/stack";
+import Section2 from "@/components/index/section2";
 
 
 export default function Home() {
@@ -11,6 +10,8 @@ export default function Home() {
       <Banner/>
       <Stack/>
       <Section1/>
+      <Stack/>
+      <Section2/>
       <Stack/>
     </main>
   );

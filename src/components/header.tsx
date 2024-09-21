@@ -10,7 +10,7 @@ export default function Header() {
         <div className={styles.container}>
             <Link href="/" className={styles.logo}>
                 <Image
-                    className=""
+                    className={styles["logo-sticker-slime"]}
                     src="/assets/images/logo/sitckerslime.png"
                     alt="sticker slime app"
                     width={50}
@@ -18,7 +18,7 @@ export default function Header() {
                     priority
                 />
                 <Image
-                    className=""
+                    className={styles["logo-text"]}
                     src="/assets/images/logo/logo.png"
                     alt="sticker slime app"
                     width={200}

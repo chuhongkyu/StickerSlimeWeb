@@ -10,11 +10,11 @@ export default function ScreenshotSwiper() {
         <div className="screenshot-swiper-container">
             <Swiper
                 slidesPerView={3}
-                spaceBetween={12}
+                spaceBetween={5}
                 breakpoints={{
                   1024: {
                     slidesPerView: 4.5,
-                    spaceBetween:20,
+                    spaceBetween:10,
                   },
                 }}
             >

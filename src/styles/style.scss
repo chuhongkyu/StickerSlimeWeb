@@ -23,8 +23,21 @@
     }
 }
 
+.img-container-300px{
+    width: 300px;
+    height: auto;
+    display: block;
+    object-fit: contain;
+    border-radius: 12px;
+    margin-right: 2rem;
+}
+
 .img-container-50{
     width: 50%;
+}
+
+.img-container-60{
+    width: 60%;
 }
 
 .img-container{
