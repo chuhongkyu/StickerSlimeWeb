@@ -26,6 +26,7 @@ Sticker Slime은 마법이 숨어 있는 서랍 속의 특별한 세계에서 �
 Sticker Slime은 안드로이드 기기에서만 이용 가능합니다. 아래 링크를 통해 구글 플레이스토어에서 게임을 다운로드할 수 있습니다:
 
 [Google Play에서 다운로드](https://play.google.com/store/apps/details?id=com.Mr.chu.StickerSlime)
+[Apple Store에서 다운로드](https://apps.apple.com/kr/app/sticker-slime/id6670695864)
 
 ## 개인정보 보호 정책
 
