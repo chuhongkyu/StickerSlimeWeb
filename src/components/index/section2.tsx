@@ -12,8 +12,8 @@ export default function Section2() {
                         width={581}
                         height={414}
                         className="img-container-300px"
-                        src="/assets/images/main/making01.jpg"
-                        alt="sticker slime making"
+                        src="/assets/images/main/making00.jpg"
+                        alt="sticker_slime_making"
                     />
                     <p className={styles.text}>
                         Get ready to immerse yourself in the enchanting universe of Sticker Slime! Join a variety of cute and colorful slime stickers as they navigate through a rain of falling objects from the sky. Your mission is to help them dodge these obstacles and achieve the highest score possible.
