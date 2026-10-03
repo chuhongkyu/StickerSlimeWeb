@@ -4,7 +4,7 @@ export default function Page() {
       <div className="container">
         <h1>Privacy Policy</h1>
         <p>
-          <strong>Last updated:</strong> September 28, 2026
+          <strong>Last updated:</strong> October 3, 2026
         </p>
 
         <h2>1. Introduction</h2>
@@ -110,6 +110,15 @@ export default function Page() {
           <li>
             <strong>Google Play</strong> — for Play Games services, and for processing in-app
             purchases on Android.
+          </li>
+          <li>
+            <strong>Unity</strong> — for analytics. The Game sends gameplay events, such as which
+            stage was played and how long a run lasted, so that we can understand how the Game is
+            played and improve it. See the{" "}
+            <a href="https://unity.com/legal/privacy-policy" target="_blank" rel="noreferrer">
+              Unity Privacy Policy
+            </a>
+            .
           </li>
         </ul>
 
