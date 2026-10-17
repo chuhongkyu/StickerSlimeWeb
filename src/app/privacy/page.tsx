@@ -15,7 +15,7 @@ export default function Page() {
         </p>
         <p>
           If you have any questions about this policy, you can reach us at{" "}
-          <a href="mailto:chuhongkyu@gmail.com">chuhongkyu@gmail.com</a>.
+          <a href="mailto:team@bookcat.info">team@bookcat.info</a>.
         </p>
 
         <h2>2. Information We Collect</h2>
@@ -164,7 +164,7 @@ export default function Page() {
         <h2>12. Contact Us</h2>
         <p>
           If you have any questions or requests regarding this Privacy Policy, please contact us at{" "}
-          <a href="mailto:chuhongkyu@gmail.com">chuhongkyu@gmail.com</a>.
+          <a href="mailto:team@bookcat.info">team@bookcat.info</a>.
         </p>
       </div>
     </section>

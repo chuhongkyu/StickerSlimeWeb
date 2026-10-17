@@ -41,7 +41,7 @@ export default function Page() {
 
         <h2>Contact Support</h2>
         <p>Developer: [Mr.chu/Book Cat]</p>
-        <p>For further inquiries or assistance, please contact us at <a href="mailto:chuhongkyu@gmail.com">chuhongkyu@gmail.com</a>.</p>
+        <p>For further inquiries or assistance, please contact us at <a href="mailto:team@bookcat.info">team@bookcat.info</a>.</p>
       </div>
     </section>
   );

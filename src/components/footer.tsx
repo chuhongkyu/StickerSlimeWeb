@@ -18,8 +18,12 @@ export default function Footer() {
         <hr/>
         <div className={styles.companyInfo}>
           <p><strong>Company:</strong> 북캣</p>
-          <p><strong>Address:</strong> 경기도 성남시 분당구 대왕판교로645번길 12, 8,9층 64호(삼평동, 경기 창조경제혁신센터)</p>
-          <p><strong>Email:</strong> <a href="mailto:mrbizinisu@gmail.com">mrbizinisu@gmail.com</a></p>
+          <p>
+            <a href="mailto:team@bookcat.info">team@bookcat.info</a>
+            {" · "}
+            <a href="https://bookcat.info" target="_blank" rel="noopener noreferrer">bookcat.info</a>
+          </p>
+          <p>© 2026 BookCat. All rights reserved.</p>
         </div>
       </div>
     </footer>
